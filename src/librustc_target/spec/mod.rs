@@ -495,6 +495,7 @@ supported_targets! {
     ("i686-unknown-uefi", i686_unknown_uefi),
 
     ("nvptx64-nvidia-cuda", nvptx64_nvidia_cuda),
+    ("amdgcn-amd-amdhsa", amdgcn_amd_amdhsa),
 
     ("i686-wrs-vxworks", i686_wrs_vxworks),
     ("x86_64-wrs-vxworks", x86_64_wrs_vxworks),
